@@ -1,0 +1,6 @@
+Page\FormPage.class
+Core\BasePage.class
+Steps\Steps.class
+Page\FunctionPage.class
+Page\InitialPage.class
+Core\BaseTest.class
